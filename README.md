@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zarell89
-- 🌱 I’m currently learning ... Html, Css and JS 
+- 🌱 I’m currently learning ... Web Development
 - 📫 How to reach me ... Carrier Pigeon 
 - ⚡ Fun fact: ... I'm a Dums Dums
 
